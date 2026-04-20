@@ -1,4 +1,4 @@
-# Telecommunication Customer Analysis & Prediction of IBM Dataset
+# Telecommunication Customer Analysis & Prediction of IBM Dataset-Classification
 
 This project focuses on analyzing telecommunication customer data and building machine learning models to predict customer outcomes (such as churn or classification targets). It includes data preprocessing, feature engineering, encoding techniques, and applying classification models to improve predictive performance.
 
